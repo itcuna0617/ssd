@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ssd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssd_jar</output-path>
+    <root id="archive" name="ssd.jar">
+      <element id="module-output" name="ssd" />
+    </root>
+  </artifact>
+</component>
